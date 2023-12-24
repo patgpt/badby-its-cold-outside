@@ -2,7 +2,7 @@
   "name": "ugly-sweater-theme",
   "displayName": "Ugly Sweater 🎄",
   "description": "Ugly Sweater Christmas Theme for VS Code 🎄",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.85.0"
   },
