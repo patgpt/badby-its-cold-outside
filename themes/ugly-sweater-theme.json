@@ -175,12 +175,8 @@
 			"tab.inactiveForeground": "#FFFFFF99",
 			"titleBar.activeBackground": "#ffffff",
 			"titleBar.activeForeground": "#209b20",
-			
-		}
-	},
-	
-	"editor.fontLigatures": true,
-	"tokenColors": [
+			"editor.fontLigatures": true,
+			"tokenColors": [
 		{
 			"name": "Selected Text",
 			"scope": [
@@ -807,4 +803,5 @@
 			}
 		}
 	]
+}
 }
