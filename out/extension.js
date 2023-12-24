@@ -10,6 +10,11 @@ const vscode = require("vscode");
  *                  objects that are provided by VS Code and objects that you can
  *                  use to register commands, etc.
  */
+/**
+ * Activates the extension.
+ *
+ * @param context - The extension context.
+ */
 function activate(context) {
     // Registering a command that will be invoked when the extension is activated.
     // 'extension.activate' is the command ID.
