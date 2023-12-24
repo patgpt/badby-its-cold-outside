@@ -1,6 +1,5 @@
 # Ugly Sweater Theme 🎄
 
-<!-- ![Ugly Sweater Theme Preview](preview.png) -->
 
 ## Description
 
@@ -38,8 +37,8 @@ For the best experience, install the custom fonts used in this theme:
 
 1. **Download Fonts:**
 
-   - [Font1-Regular.ttf](font-download-link1)
-   - [Font2-Bold.ttf](font-download-link2)
+   - [FiraCode.ttf](/fonts/FiraCode-Regular.ttf)
+   - [FiraCode-Bold.ttf](/fonts/FiraCode-Bold.ttf)
 
 2. **Install Fonts:**
 
@@ -71,7 +70,7 @@ To activate the Ugly Sweater Theme, follow these steps:
 
 ## Contributing
 
-If you'd like to contribute to the Ugly Sweater Theme or report issues, please visit the [GitHub repository](https://github.com/patgpt/ugly-sweater-theme). We welcome your feedback and suggestions.
+If you'd like to contribute to the Ugly Sweater Theme or report issues, please visit the [GitHub repository](https://github.com/patgpt/baby-its-cold-outside). We welcome your feedback and suggestions.
 
 ## License
 
