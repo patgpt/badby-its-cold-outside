@@ -1,39 +1,32 @@
 {
   "name": "ugly-sweater-theme",
   "displayName": "Ugly Sweater 🎄",
-  "description": "Ugly Sweater Christmas Theme for VS Code 🎄" ,
+  "main": "./out/extension.js",
+  "description": "Ugly Sweater Christmas Theme for VS Code 🎄",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
   },
-  "categories": ["Themes"],
+  "publisher": "patgpt",
+  "icon": "media/icon.png",
+  "themeIcon": "media/theme-icon.png",
   "contributes": {
     "themes": [
       {
         "label": "Ugly Sweater",
         "uiTheme": "vs-dark",
-        "path": "./themes/ugly-sweater-color-theme.json"
-      }
-    ],
-    "fonts": [
-      {
-        "id": "FiraCode-Regular",
-        "src": [
-          {
-            "path": "./fonts/FiraCode-Regular.ttf",
-            "format": "truetype"
-          }
-        ]
-      },
-      {
-        "id": "FiraCode-Bold",
-        "src": [
-          {
-            "path": "./fonts/FiraCode-Bold.ttf",
-            "format": "truetype"
-          }
-        ]
+        "path": "./themes/ugly-sweater-theme.json"
       }
     ]
+  },
+  "activationEvents": [
+    "onCommand:extension.activate"
+  ],
+  "scripts": {
+
+  },
+  "devDependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.3.3"
   }
 }

@@ -1,6 +1,6 @@
 # Ugly Sweater Theme 🎄
 
-![Ugly Sweater Theme Preview](preview.png)
+<!-- ![Ugly Sweater Theme Preview](preview.png) -->
 
 ## Description
 
